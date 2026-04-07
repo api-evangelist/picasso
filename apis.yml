@@ -8,8 +8,8 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Android
-  - Image Loading
   - Caching
+  - Image Loading
   - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/picasso/refs/heads/main/apis.yml
