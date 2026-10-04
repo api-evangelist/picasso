@@ -6,15 +6,20 @@ description: >-
   Square. Picasso is a client-side library, not a hosted HTTP API.
 type: Index
 deliveryModel:
-  model: unknown
-  open_source: false
+  model: self-hosted
+  license: Apache-2.0
+  license_evidence:
+    repo: square/picasso
+    spdx: Apache-2.0
+    stars: 18787
+  open_source: true
   commercial: false
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
-  confidence: low
+  label: Self-hosted open source · you run it yourself
+  confidence: medium
   source:
-  - none
-  generated: '2026-08-28'
+  - repository-license
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: unknown
@@ -34,7 +39,7 @@ tags:
   - Android
   - Caching
   - Image Loading
-  - Open-Source
+  - Open Source
   - Library
   - Square
 tags_raw:
@@ -44,6 +49,7 @@ tags_raw:
   - Open Source
   - Library
   - Square
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/picasso/refs/heads/main/apis.yml
 created: '2026-03-16'
